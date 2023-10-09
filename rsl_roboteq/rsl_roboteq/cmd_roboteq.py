@@ -1,7 +1,3 @@
-import re
-import sys
-sys.path.append('src/rsl_roboteq/rsl_roboteq/PyRoboteq')
-
 from PyRoboteq import RoboteqHandler
 from PyRoboteq import roboteq_commands as cmds
 
